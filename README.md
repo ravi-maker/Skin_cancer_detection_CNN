@@ -1,4 +1,4 @@
-# Project Name
+# Skin_cancer_detection_CNN Analysis 
 > Outline a brief description of your project.
 
 

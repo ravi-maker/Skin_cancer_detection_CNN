@@ -19,7 +19,7 @@ Dataset is largeger in size and are jpg image so it is not available here you ca
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-#Conclusion 1 from the analysis
+#Conclusion from the analysis
 Model is still overfitting, Overfitting in Convolutional Neural Networks (CNNs) is a common problem that occurs when the model is too complex for the problem it is trying to solve. This can be resolved by tuning the hyperparameters of the model and ensuring that the data is divided into well-proportioned sets. Here are some ways to treat overfitting in CNNs:
 
 Reduce the complexity of the model: This can be done by removing certain layers or decreasing the number of neurons (filters in CNN). Use regularization: Regularization can be used on the weights of the model to prevent overfitting. Split the data: Splitting the data into training, validation, and testing datasets can help fine-tune the model until you’re satisfied with its performance.
